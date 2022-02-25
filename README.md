@@ -12,4 +12,4 @@ Machine learning classification take-home project for an interview with [Thrasio
 2) `Model training and hyper-parameter tuning`
 3) `Model accuracy interpretation`
 
-I utilized the **Random Forest** and **Logistic Regression** for classification
+I utilized the **Random Forest** and **Logistic Regression** for classification, and received a max accuracy of >92%
